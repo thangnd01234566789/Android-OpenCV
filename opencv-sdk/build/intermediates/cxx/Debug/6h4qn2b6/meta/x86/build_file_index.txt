@@ -1,0 +1,1 @@
+D:\baitapvenha\baitapandroid\gray_scale_image\opencv-sdk\libcxx_helper\CMakeLists.txt
