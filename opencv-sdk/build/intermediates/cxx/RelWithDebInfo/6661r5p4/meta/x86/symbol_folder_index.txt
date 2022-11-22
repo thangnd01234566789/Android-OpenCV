@@ -1,0 +1,1 @@
+D:\baitapvenha\baitapandroid\start_opencv_android11_23\opencv-sdk\build\intermediates\cxx\RelWithDebInfo\6661r5p4\obj\x86
