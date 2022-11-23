@@ -1,0 +1,1 @@
+/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/build/intermediates/cxx/Debug/2g5z481u/obj/x86

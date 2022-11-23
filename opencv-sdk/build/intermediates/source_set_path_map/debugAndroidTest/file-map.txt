@@ -1,0 +1,8 @@
+org.opencv.test.opencv-sdk-androidTest-0 /home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/build/generated/res/resValues/androidTest/debug
+org.opencv.test.opencv-sdk-androidTest-1 /home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/build/generated/res/rs/androidTest/debug
+org.opencv.test.opencv-sdk-mergeDebugAndroidTestResources-2 /home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+org.opencv.test.opencv-sdk-mergeDebugAndroidTestResources-3 /home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+org.opencv.test.opencv-sdk-merged_res-4 /home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/build/intermediates/merged_res/debugAndroidTest
+org.opencv.test.opencv-sdk-packaged_res-5 /home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/build/intermediates/packaged_res/debug
+org.opencv.test.opencv-sdk-androidTest-6 /home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/src/androidTest/res
+org.opencv.test.opencv-sdk-androidTestDebug-7 /home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/src/androidTestDebug/res

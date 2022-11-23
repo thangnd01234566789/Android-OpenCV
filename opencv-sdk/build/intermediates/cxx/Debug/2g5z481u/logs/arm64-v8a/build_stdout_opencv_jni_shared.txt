@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/.cxx/Debug/2g5z481u/arm64-v8a'
+ninja: no work to do.

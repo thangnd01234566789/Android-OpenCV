@@ -1,0 +1,4 @@
+/home/quyetna/Android/Sdk/cmake/3.18.1/bin/ninja \
+  -C \
+  /home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/.cxx/Debug/2g5z481u/x86 \
+  opencv_jni_shared

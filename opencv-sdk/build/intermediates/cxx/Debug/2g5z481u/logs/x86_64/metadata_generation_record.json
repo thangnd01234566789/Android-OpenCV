@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86_64",
+    "file_": "/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -752170493
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/.cxx/Debug/2g5z481u/x86_64/android_gradle_build.json due to:",
+    "file_": "/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -296187649
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/.cxx/Debug/2g5z481u/x86_64/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -325151123
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/.cxx/Debug/2g5z481u/x86_64/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -823287029
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1952680434
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/.cxx/Debug/2g5z481u/x86_64\u0027",
+    "file_": "/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 502727046
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/.cxx/Debug/2g5z481u/x86_64\u0027",
+    "file_": "/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 570344338
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /home/quyetna/Android/Sdk/cmake/3.18.1/bin/cmake \\\n  -H/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/libcxx_helper \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d21 \\\n  -DANDROID_PLATFORM\u003dandroid-21 \\\n  -DANDROID_ABI\u003dx86_64 \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003dx86_64 \\\n  -DANDROID_NDK\u003d/home/quyetna/Android/Sdk/ndk/23.1.7779620 \\\n  -DCMAKE_ANDROID_NDK\u003d/home/quyetna/Android/Sdk/ndk/23.1.7779620 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/home/quyetna/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/home/quyetna/Android/Sdk/cmake/3.18.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/build/intermediates/cxx/Debug/2g5z481u/obj/x86_64 \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/build/intermediates/cxx/Debug/2g5z481u/obj/x86_64 \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -B/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/.cxx/Debug/2g5z481u/x86_64 \\\n  -GNinja \\\n  -DANDROID_STL\u003dc++_shared\n",
+    "file_": "/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1484724220
+  },
+  {
+    "level_": 0,
+    "message_": "/home/quyetna/Android/Sdk/cmake/3.18.1/bin/cmake \\\n  -H/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/libcxx_helper \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d21 \\\n  -DANDROID_PLATFORM\u003dandroid-21 \\\n  -DANDROID_ABI\u003dx86_64 \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003dx86_64 \\\n  -DANDROID_NDK\u003d/home/quyetna/Android/Sdk/ndk/23.1.7779620 \\\n  -DCMAKE_ANDROID_NDK\u003d/home/quyetna/Android/Sdk/ndk/23.1.7779620 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/home/quyetna/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/home/quyetna/Android/Sdk/cmake/3.18.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/build/intermediates/cxx/Debug/2g5z481u/obj/x86_64 \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/build/intermediates/cxx/Debug/2g5z481u/obj/x86_64 \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -B/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/.cxx/Debug/2g5z481u/x86_64 \\\n  -GNinja \\\n  -DANDROID_STL\u003dc++_shared\n",
+    "file_": "/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1060938171
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/.cxx/Debug/2g5z481u/x86_64/compile_commands.json.bin normally",
+    "file_": "/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 308714263
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2029940611
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/.cxx/Debug/2g5z481u/x86_64/metadata_generation_command.txt",
+    "file_": "/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 603195315
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/home/quyetna/Documents/thangdaubo/android_opencv/flower_classification/opencv-sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -326953601
+  }
+]
