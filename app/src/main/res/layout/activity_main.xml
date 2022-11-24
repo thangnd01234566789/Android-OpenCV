@@ -15,7 +15,7 @@
         android:foregroundGravity="top"
         android:textColor="@color/teal_200"
         android:layout_marginTop="20dp"
-        android:textSize="26sp"
+        android:textSize="16sp"
         />
 
     <org.opencv.android.JavaCameraView
@@ -37,41 +37,40 @@
         android:visibility="gone"
         />
 
-    <Button
-        android:id="@+id/openImage"
-        android:layout_width="136dp"
-        android:layout_height="52dp"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="20dp"
-        android:layout_marginTop="20dp"
-        android:layout_marginEnd="20dp"
-        android:layout_marginBottom="20dp"
-        android:background="@drawable/ic_launcher_background"
-        android:padding="10dp"
-        android:text="Open Image"
-        android:textAllCaps="false"
-        android:textSize="10sp"
-        android:onClick="openImage"/>
+<!--    <Button-->
+<!--        android:id="@+id/openImage"-->
+<!--        android:layout_width="136dp"-->
+<!--        android:layout_height="52dp"-->
+<!--        android:layout_alignParentRight="true"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:layout_marginStart="20dp"-->
+<!--        android:layout_marginTop="20dp"-->
+<!--        android:layout_marginEnd="20dp"-->
+<!--        android:layout_marginBottom="20dp"-->
+<!--        android:background="@drawable/ic_launcher_background"-->
+<!--        android:padding="10dp"-->
+<!--        android:text="Open Image"-->
+<!--        android:textAllCaps="false"-->
+<!--        android:textSize="10sp"-->
+<!--        android:onClick="openImage"/>-->
 
     <Button
         android:id="@+id/openCamera"
         android:layout_width="136dp"
         android:layout_height="53dp"
-        android:layout_alignParentLeft="true"
+        android:layout_centerInParent="true"
         android:layout_alignParentBottom="true"
         android:layout_marginStart="20dp"
-        android:layout_marginLeft="20dp"
+        android:layout_marginLeft="24dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="20dp"
-        android:layout_marginBottom="19dp"
+        android:layout_marginBottom="29dp"
         android:background="@drawable/ic_launcher_background"
+        android:onClick="openCamera"
         android:padding="10dp"
-        android:text="Open Camera"
+        android:text="Change Camera"
         android:textAllCaps="false"
-        android:textSize="10sp"
-        android:onClick="openCamera"/>
-
+        android:textSize="10sp" />
 
 
 </RelativeLayout>
